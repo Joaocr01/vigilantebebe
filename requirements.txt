@@ -1,0 +1,3 @@
+Flask==2.3.2
+opencv-python-headless==4.7.0.72
+ultralytics==8.0.24  # Escolha uma versão compatível com Python 3.12
